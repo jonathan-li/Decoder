@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+*.venv
+
+# Credentials / Secrets - VERY IMPORTANT
+credentials.json
+token.json
+*.secret
